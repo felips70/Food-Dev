@@ -8,9 +8,9 @@ const About = () => {
           <h1>About Us</h1>
           <p>
             Experience the rich and delectable world of Haldiram's cuisine at
-            your fingertips with the Haldiram Food Delivery App! Indulge in the
-            authentic flavors of India's favorite snacks, sweets, and savories,
-            all conveniently delivered to your doorstep.
+            your fingertips with the Haldiram Food Delivery Website! Indulge in
+            the authentic flavors of India's favorite snacks, sweets, and
+            savories, all conveniently delivered to your doorstep.
           </p>
         </div>
         <div className="about-img">
